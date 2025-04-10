@@ -11,3 +11,17 @@ Zadanie 1 Paradygmaty
 ❌ 5.0 wymaganie 5
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad1
+
+Zadanie 2 Paradygmaty
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/82ba62ffe9c76e7d9f432e50b94990e21e5f271a)
+
+✅ 3.5 wymaganie 2 [Link do commita2](https://github.com/AgnikAm/ObjectProgramming/commit/4c97eb6e3a9ab24846095adfe98689429ab1c24f)
+
+✅ 4.0 wymaganie 3 [Link do commita 3](https://github.com/AgnikAm/ObjectProgramming/commit/82ba62ffe9c76e7d9f432e50b94990e21e5f271a)
+
+❌ 4.5 wymaganie 4
+
+❌ 5.0 wymaganie 5
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad2
