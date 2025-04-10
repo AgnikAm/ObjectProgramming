@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}User Details{% endblock %}
+
+{% block body %}
+    <h1>User Details</h1>
+    
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Email</th>
+                <td>{{ user.email }}</td>
+            </tr>
+            <tr>
+                <th>Roles</th>
+                <td>
+                    {% for role in user.roles %}
+                        <span class="badge bg-primary">{{ role }}</span>
+                    {% endfor %}
+                </td>
+            </tr>
+            <tr>
+                <th>First Name</th>
+                <td>{{ user.firstName }}</td>
+            </tr>
+            <tr>
+                <th>Last Name</th>
+                <td>{{ user.lastName }}</td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <a href="{{ path('app_user_index') }}">Back to list</a>
+    <a href="{{ path('app_user_edit', {'id': user.id}) }}">Edit</a>
+{% endblock %}
