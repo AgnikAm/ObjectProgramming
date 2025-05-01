@@ -3,6 +3,7 @@ package controller
 import service.AuthService
 import model.Credentials
 import model.Response
+import model.UserResponse
 import org.springframework.web.bind.annotation.*
 
 @RestController
@@ -10,9 +11,9 @@ import org.springframework.web.bind.annotation.*
 class AuthController(
     private val authService: AuthService
 ) {
-    @GetMapping("/user")
-    fun getData(): List<String> {
-        return listOf(authService.getAllUsers().toString())
+    @GetMapping("/users")
+    fun getUsers(): List<UserResponse> {
+        return authService.getAllUsers()
     }
 
     @PostMapping("/register")

@@ -2,6 +2,7 @@ package service
 
 import org.springframework.stereotype.Service
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
+import model.UserResponse
 
 @Service
 class AuthService {
@@ -17,7 +18,9 @@ class AuthService {
         return passwordEncoder.matches(plainPassword, storedHash)
     }
 
-    fun getAllUsers(): Map<String, String> {
-        return userDatabase.toMap()
+    fun getAllUsers(): List<UserResponse> {
+        return userDatabase.map { (username, hash) ->
+            UserResponse(username, hash)
+        }
     }
 }
