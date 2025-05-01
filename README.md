@@ -12,7 +12,7 @@ Zadanie 1 Paradygmaty
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad1
 
-Zadanie 2 Paradygmaty
+Zadanie 2 Wzorce architektury
 
 ✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/82ba62ffe9c76e7d9f432e50b94990e21e5f271a)
 
@@ -25,3 +25,17 @@ Zadanie 2 Paradygmaty
 ❌ 5.0 wymaganie 5
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad2
+
+Zadanie 3 Wzorce kreacyjne
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/f2b741c50be5cbc10dbfaf8098323c37b10a2d1a)
+
+✅ 3.5 wymaganie 2 [Link do commita2](https://github.com/AgnikAm/ObjectProgramming/commit/f2b741c50be5cbc10dbfaf8098323c37b10a2d1a)
+
+✅ 4.0 wymaganie 3 [Link do commita 3](https://github.com/AgnikAm/ObjectProgramming/commit/f2b741c50be5cbc10dbfaf8098323c37b10a2d1a)
+
+✅ 4.5 wymaganie 4 [Link do commita 4](https://github.com/AgnikAm/ObjectProgramming/commit/da2238590e7b76fe61d1380dc9a3dc139cb13a7f)
+
+❌ 5.0 wymaganie 5
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad3
