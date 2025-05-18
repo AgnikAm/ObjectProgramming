@@ -2,8 +2,8 @@ import React from "react";
 import { Product } from "../App";
 
 interface Props {
-  cart: Product[];
-  removeFromCart: (product: Product) => void;
+  readonly cart: Product[];
+  readonly removeFromCart: (product: Product) => void;
 }
 
 export default function Cart({ cart, removeFromCart }: Props) {
@@ -19,7 +19,7 @@ export default function Cart({ cart, removeFromCart }: Props) {
           {cart.map((product, index) => (
             <li
               data-testid="cart-item"
-              key={index}
+              key={product.id}
               className="flex justify-between items-center border p-3 rounded bg-white shadow-sm"
             >
               <span>
