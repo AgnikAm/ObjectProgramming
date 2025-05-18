@@ -86,3 +86,4 @@ Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad6
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=bugs)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
