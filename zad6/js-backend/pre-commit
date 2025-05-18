@@ -1,0 +1,13 @@
+#!/bin/sh
+echo "🔍 Running ESLint in /zad6..."
+
+cd zad6 || exit 1
+
+npx eslint . --ext .ts,.tsx,.js
+
+if [ $? -ne 0 ]; then
+  echo "❌ ESLint failed. Commit aborted."
+  exit 1
+else
+  echo "✅ ESLint passed."
+fi
