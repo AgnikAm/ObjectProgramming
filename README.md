@@ -70,7 +70,7 @@ Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad5
 
 Zadanie 6 Zapaszki
 
-❌ 3.0 wymaganie 1
+✅ 3.0 wymaganie 1 [Link do commita 1]([Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/5d5382d83cfb502311328cccdc8d9cc34965a743))
 
 ✅ 3.5 wymaganie 2 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/5d5382d83cfb502311328cccdc8d9cc34965a743)
 
