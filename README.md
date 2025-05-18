@@ -53,3 +53,17 @@ Zadanie 4 Wzorce strukturalne
 ✅ 5.0 wymaganie 5 [Link do commita 5](https://github.com/AgnikAm/ObjectProgramming/commit/f8cdf5b84dc768d0d03b3625499c457d4df844ac)
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad4
+
+Zadanie 5 Wzorce behawioralne
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
+
+✅ 3.5 wymaganie 2 [Link do commita2](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
+
+✅ 4.0 wymaganie 3 [Link do commita 3](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
+
+❌ 4.5 wymaganie 4 
+
+✅ 5.0 wymaganie 5 [Link do commita 4](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad5
