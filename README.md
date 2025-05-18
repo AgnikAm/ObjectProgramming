@@ -58,7 +58,7 @@ Zadanie 5 Wzorce behawioralne
 
 ✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
 
-✅ 3.5 wymaganie 2 [Link do commita2](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
+✅ 3.5 wymaganie 2 [Link do commita 2](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
 
 ✅ 4.0 wymaganie 3 [Link do commita 3](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
 
@@ -72,13 +72,13 @@ Zadanie 6 Zapaszki
 
 ❌ 3.0 wymaganie 1
 
-❌ 3.5 wymaganie 2
+✅ 3.5 wymaganie 2 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/5d5382d83cfb502311328cccdc8d9cc34965a743)
 
-❌ 4.0 wymaganie 3
+✅ 4.0 wymaganie 3 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/5d5382d83cfb502311328cccdc8d9cc34965a743)
 
-❌ 4.5 wymaganie 4 
+✅ 4.5 wymaganie 4 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/5d5382d83cfb502311328cccdc8d9cc34965a743)
 
-❌ 5.0 wymaganie 5
+✅ 5.0 wymaganie 5 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/5d5382d83cfb502311328cccdc8d9cc34965a743)
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad6
 
