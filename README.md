@@ -67,3 +67,17 @@ Zadanie 5 Wzorce behawioralne
 ✅ 5.0 wymaganie 5 [Link do commita 4](https://github.com/AgnikAm/ObjectProgramming/commit/04e270dc0a0a31ebda77210173007cc6901af388)
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad5
+
+Zadanie 6 Zapaszki
+
+❌ 3.0 wymaganie 1
+
+❌ 3.5 wymaganie 2
+
+❌ 4.0 wymaganie 3
+
+❌ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad6
