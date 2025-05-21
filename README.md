@@ -87,3 +87,17 @@ Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad6
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=AgnikAm_ObjectProgramming&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=AgnikAm_ObjectProgramming)
+
+Zadanie 7 Antywzorce
+
+❌ 3.0 wymaganie 1
+
+❌ 3.5 wymaganie 2
+
+❌ 4.0 wymaganie 3
+
+❌ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad7
