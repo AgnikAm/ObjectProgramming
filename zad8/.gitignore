@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Selenium driver
+chromedriver
+chromedriver.exe
+chromedriver.log
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test outputs or temp files
+*.tmp
+*.bak
+*.swp
+
+# IDEs
+.idea/
+*.iml
