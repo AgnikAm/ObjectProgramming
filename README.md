@@ -101,3 +101,17 @@ Zadanie 7 Antywzorce
 ❌ 5.0 wymaganie 5
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad7
+
+Zadanie 8 Testy
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/dbfdb2eaa572fc416624934eaab671810a352d92)
+
+❌ 3.5 wymaganie 2
+
+❌ 4.0 wymaganie 3
+
+❌ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad8
