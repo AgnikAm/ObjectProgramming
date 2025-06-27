@@ -115,3 +115,17 @@ Zadanie 8 Testy
 ❌ 5.0 wymaganie 5
 
 Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad8
+
+Zadanie 9 Aplikacja mobilna
+
+✅ 3.0 wymaganie 1 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/1f05463eb36627a4d99a77be2e80e463e6c091d5)
+
+✅ 3.5 wymaganie 2 [Link do commita 1](https://github.com/AgnikAm/ObjectProgramming/commit/1f05463eb36627a4d99a77be2e80e463e6c091d5)
+
+❌ 4.0 wymaganie 3
+
+❌ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5
+
+Kod: https://github.com/AgnikAm/ObjectProgramming/tree/master/zad9
